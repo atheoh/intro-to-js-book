@@ -1,0 +1,5 @@
+substring --> Constructor: String, Type of method: Prototype
+create --> Constructor: Object, Type of method: Static
+fromCharCode --> Constructor: String, Type of method: Static
+slice --> Constructor: String, Array, Type of method: Prototype
+toString --> Constructor: String, Object, Array, Number, Type of meethod: Prototype

@@ -1,0 +1,11 @@
+Valid names for constants that represent magic numbers
+index: no
+CatName: no
+snake_case: no
+lazyDog: no
+quick_Fox: no
+1stCharacter: no
+operand2: no
+BIG_NUMBER: yes, screaming snake case should be used for 
+variables that store unchanging 
+configuration values and magic numbers

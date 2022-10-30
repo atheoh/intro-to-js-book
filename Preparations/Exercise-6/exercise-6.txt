@@ -1,0 +1,8 @@
+// valid variable names
+index: yes
+CatName: no, variable names should not use PascalCase
+lazyDog: yes
+quick_Fox: snake case is not valid 
+1stCharacter: no, variable names cannot start with a number
+operand2: yes
+BIG_NUMBER: no, screaming snake case is not valid

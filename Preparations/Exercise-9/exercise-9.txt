@@ -1,0 +1,12 @@
+Invalid names for variables, functions, or constants
+index: Valid for variables, functions and constants
+CatName: Valid for constractor functions
+snake_case: Is not valid for any of the three above
+lazyDog: Valid for variables, functions and constants
+quick_Fox: Is not valid for any of the three above
+1stCharacter: Is not valid for any of the three above
+operand2: Valid for variables, functions and constants
+BIG_NUMBER: Valid only for constants that store unchanging
+configuration values and magic numbers
+
+So the answers are snake_case, quick_Fox and 1stCharacter.

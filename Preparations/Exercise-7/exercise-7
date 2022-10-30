@@ -1,0 +1,10 @@
+Valid function names:
+index: yes
+CatName: yes, PascalCase should be used for contructor functions
+snake_case: no,snake case is not valid
+lazyDog: yes, camelCase is valid
+quick_Fox: no, snake case is not valid
+1stCharacter: no, function and variable names cannot start
+with a number
+operand2: yes
+BIG_NUMBER: no, screaming snake case is not valid
